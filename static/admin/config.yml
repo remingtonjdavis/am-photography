@@ -1,5 +1,6 @@
 backend:
   name: test-repo
+  repo: remingtonjdavis/am-photography
 
 media_folder: static/assets
 public_folder: assets
