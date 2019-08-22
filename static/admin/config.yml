@@ -1,5 +1,5 @@
 backend:
-  name: test-repo
+  name: github
   repo: remingtonjdavis/am-photography
 
 media_folder: static/assets
